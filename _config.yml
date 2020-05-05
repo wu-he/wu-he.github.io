@@ -3,7 +3,7 @@ title: WH Blog
 SEOTitle: 伍壑的博客 | WH Blog
 header-img: img/post-bg-desk.jpg
 email: 807705073@qq.com
-description: "Every failure is leading towards success."
+description: "Just do it!"
 keyword: "WH, WH Blog, 伍壑的博客, wuhe, 伍壑,audio"
 url: "https://wu-he.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/wu-he" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Zero warning, zero error."
 sidebar-avatar: /img/about-WH-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
