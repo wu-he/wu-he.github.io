@@ -55,30 +55,30 @@ kramdown:
 
 
 
-# 评论系统
+# 评论系统关闭了的
 # Disqus（https://disqus.com/）
 # disqus_username: disqus_EXslLWH8eo
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 779bc3356f3d18e29399                            #生成的clientID
-  clientSecret: 537bbee19dc99ccc8971215a720a99ecfac0b1af    #生成的clientSecret
-  repo: wu-he.github.io    #仓库名称
-  owner: wu-he    #github用户名
-  admin: wu-he
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 779bc3356f3d18e29399                            #生成的clientID
+#  clientSecret: 537bbee19dc99ccc8971215a720a99ecfac0b1af    #生成的clientSecret
+#  repo: wu-he.github.io    #仓库名称
+#  owner: wu-he    #github用户名
+#  admin: wu-he
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
-# 统计
+# 统计关闭了的
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
